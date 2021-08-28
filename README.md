@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aruskywalker
 - 👀 I’m interested in bright future
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on everthing
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me just send me a DM
 
 <!---
